@@ -37,7 +37,7 @@ If two objects are considered equal according to the equals method, they must al
  * leading to issues like duplicate keys or inability to find keys.
  */
 
-public class hashMap_obj {
+public class OverrideHasCode_Equals {
 
     public static void main(String []args){
         Car c1 = new Car();
