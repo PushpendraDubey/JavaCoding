@@ -1,3 +1,4 @@
+package Random_Questions;
 public class Count_digits {
     public static int countDigits(int n){
         // Write your code here.
