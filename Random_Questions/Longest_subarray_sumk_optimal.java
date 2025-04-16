@@ -26,7 +26,7 @@ public class Longest_subarray_sumk_optimal {
         return maxLen;
     }
     public static void main(String[] args) {
-        int arr[] = {1,2,2,5,1,1,1,3};
+        int arr[] = {1,2,2,5,1,1,-1,-1,2,1,3};
         int k = 3;
         int size = longest_subarray(arr, k);
         System.out.println("Length of longest Subarray with sum k : "+size);
